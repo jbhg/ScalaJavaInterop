@@ -1,5 +1,7 @@
 *.class
-
+.cache
+.classpath
+.project
 # Package Files #
 *.jar
 *.war
